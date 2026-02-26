@@ -14,7 +14,7 @@ I build at the frontier of autonomous systems.
 
 ### What I'm working on
 
-**[Prescott Data](https://prescottdata.io)** — Founder & Lead AI Engineer  
+**[Prescott Data](https://prescottdata.io)** — Founder & CEO
 Enterprise AI workflow automation. Dromos automates end-to-end business processes, activates unstructured data, and delivers real-time insights at scale. Built for the last mile, for all teams.
 
 **[AI Dojo](https://ai-dojo.io)** — Founder & Sensei  
