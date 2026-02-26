@@ -6,7 +6,7 @@
 
 ## Muyukani Kizito
 
-**Founder · Village nerd with some tools**
+**Founder @Prescott Data · Village nerd with some tools**
 
 I build at the frontier of autonomous systems.
 
