@@ -42,7 +42,6 @@ actor Analyst {
 |---|---|---|
 | [Sub-Agent Control Patterns: From Autonomy to Cognitive Cohesion](https://ai-dojo.io/papers/sub-agent-control-patterns) | AI Dojo | Feb 2026 |
 | [The Physics of AI Engineering: A Deep Science Masterclass](https://ai-dojo.io/papers/the-physics-of-ai-engineering) | AI Dojo | Feb 2026 |
-| [The Nexus Protocol — Standardizing AI Agent Identity](https://prescottdata.io/blog/nexus-protocol-ai-agent-identity) | Prescott Data | 2026 |
 
 ---
 
