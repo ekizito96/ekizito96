@@ -6,9 +6,9 @@
 
 ## Muyukani Kizito
 
-**Founder · AI Engineer · Language Designer**
+**Founder · Village nerd with some tools**
 
-I build at the frontier of autonomous systems — from enterprise AI platforms to a programming language designed from scratch for agentic computation.
+I build at the frontier of autonomous systems.
 
 ---
 
